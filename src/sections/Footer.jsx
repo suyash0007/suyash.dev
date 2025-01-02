@@ -28,7 +28,7 @@ const Footer = () => {
         </a>
       </div>
 
-      <p className="text-white-500 sm:order-3 order-2">© 2024 Suyash Tiwari. All rights reserved.</p>
+      <p className="text-white-500 sm:order-3 order-2">© 2025 Suyash Tiwari. All rights reserved.</p>
     </footer>
   );
 };
